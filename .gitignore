@@ -1,9 +1,11 @@
-Gorda.csv
-JdF.csv
-earthchem_download_72807.xlsx
-ClassandLehnertMORBComp.xlsx
+data/Gorda.csv
+data/JdF.csv
+data/earthchem_download_72807.xlsx
+data/ClassandLehnertMORBComp.xlsx
 Module1.ipynb
 Module1_colab.ipynb
 SERC_Volcanics.ipynb
 .DS_Store
 SERC_MORB.ipynb
+Goldschmidt_SCS.pdf
+earthchem-teaching-book/
